@@ -1,3 +1,3 @@
 # Timesheet
 
-Here we will develop some valueable functionality to learn something new!.
+Here we will develop some valuable functionality to learn something new!.
